@@ -1,4 +1,4 @@
-# Maritime-Detection
+# Arial Maritime Drone-Dataset
 
 This was conducted in an anaconda environment using airborne maritime drone data.
 
