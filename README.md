@@ -1,6 +1,6 @@
 # Maritime-Dataset
 
-This was conducted in an anaconda environment using airborne maritime drone data.
+This dataset contains 74 images of aerial maritime photographs taken with via a Mavic Air 2 drone and 1,151 bounding boxes, consisting of docks, boats, lifts, jetskis, and cars. This is a multi class problem.
 
 I trained and ran the YOLOv5 model directly in the Anaconda environment.
 In order to actively utilize the YOLO model, 
