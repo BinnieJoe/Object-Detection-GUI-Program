@@ -9,9 +9,9 @@ you need the dataset you want and an understanding of yaml files.
 Next, I will train the model by collecting and labeling direct data.
 
 # Start
-```
-git clone https://github.com/ultralytics/yolov5.git
-```
+
+- git clone https://github.com/ultralytics/yolov5.git
+
 ```
 pip install -r requirements.txt
 ```
