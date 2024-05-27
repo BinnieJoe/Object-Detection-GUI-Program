@@ -1,4 +1,4 @@
-# Maritime-Dataset
+# Gui_Program with Maritime-Dataset
 
 This dataset contains 74 images of aerial maritime photographs taken with via a Mavic Air 2 drone and 1,151 bounding boxes, consisting of docks, boats, lifts, jetskis, and cars. This is a multi class problem.
 
