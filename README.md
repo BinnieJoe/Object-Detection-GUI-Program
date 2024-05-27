@@ -12,6 +12,7 @@ Next, I will train the model by collecting and labeling direct data.
 ```
 git clone https://github.com/ultralytics/yolov5.git
 ```
+```
 pip install -r requirements.txt
 ```
 python capture.py
