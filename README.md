@@ -1,4 +1,4 @@
-# Maritime-Dataset
+![2](https://github.com/BinnieJoe/Maritime-Dataset/assets/167211454/d3137e09-0074-413c-928c-ba3c834faffd)# Maritime-Dataset
 
 This dataset contains 74 images of aerial maritime photographs taken with via a Mavic Air 2 drone and 1,151 bounding boxes, consisting of docks, boats, lifts, jetskis, and cars. This is a multi class problem.
 
@@ -7,3 +7,6 @@ In order to actively utilize the YOLO model,
 you need the dataset you want and an understanding of yaml files.
 
 Next, I will train the model by collecting and labeling direct data.
+
+# Result
+![2](https://github.com/BinnieJoe/Maritime-Dataset/assets/167211454/d34e167c-08ca-4f0e-8036-541a45b18338)
