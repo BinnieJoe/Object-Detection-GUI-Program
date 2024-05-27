@@ -1,4 +1,4 @@
-![2](https://github.com/BinnieJoe/Maritime-Dataset/assets/167211454/d3137e09-0074-413c-928c-ba3c834faffd)# Maritime-Dataset
+# Maritime-Dataset
 
 This dataset contains 74 images of aerial maritime photographs taken with via a Mavic Air 2 drone and 1,151 bounding boxes, consisting of docks, boats, lifts, jetskis, and cars. This is a multi class problem.
 
