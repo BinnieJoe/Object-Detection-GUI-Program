@@ -8,7 +8,7 @@ you need the dataset you want and an understanding of yaml files.
 
 Next, I will train the model by collecting and labeling direct data.
 
-# Start
+## Start
 ```
 git clone https://github.com/ultralytics/yolov5.git
 ```
@@ -21,5 +21,5 @@ pip install -r requirements.txt
 python capture.py
 ```
 
-# Result
+## Result
 ![2](https://github.com/BinnieJoe/Maritime-Dataset/assets/167211454/d34e167c-08ca-4f0e-8036-541a45b18338)
