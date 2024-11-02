@@ -9,10 +9,10 @@ you need the dataset you want and an understanding of yaml files.
 Next, I will train the model by collecting and labeling direct data.
 
 ## Skills
-**OpenCV Implementation**: Visualizing object recognition results as a GUI program using OpenCV library, providing user interface
-**YAML File Understanding and Usage**: Understanding and configuring YAML files for YOLO model setup
-**Python Programmin**g: Coding in Python language throughout the project to perform model training and result visualization
-**Pytorch**: Solving object recognition problems using YOLOv5 model, and improving performance through custom datasets
+- **OpenCV Implementation**: Visualizing object recognition results as a GUI program using OpenCV library, providing user interface
+- **YAML File Understanding and Usage**: Understanding and configuring YAML files for YOLO model setup
+- **Python Programming**: Coding in Python language throughout the project to perform model training and result visualization
+- **Pytorch**: Solving object recognition problems using YOLOv5 model, and improving performance through custom datasets
 
 ## Start
 ```
